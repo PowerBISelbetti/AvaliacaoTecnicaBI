@@ -29,7 +29,8 @@ Utilizando as bases disponibilizadas, desenvolva uma consulta SQL (utilize a est
 
 Utilizando os arquivos do repositório, desenvolva um dashboard de página única no Microsoft Power BI contendo os seguintes indicadores:
 
-- **Vendas Mês a Mês:** Exiba as vendas por mês, destacando qual foi o melhor e o pior mês.
+- **Vendas Mês a Mês:** Exiba o valor de vendas por mês, destacando qual foi o melhor e o pior mês.
+- **Ordens de Serviço Mês a Mês:** Exiba a quantidade de ordens de serviço por mês, destacando qual foi o melhor e o pior mês.
 - **Ranking de Clientes:** Classifique os clientes com base no volume de vendas.
 - **Ranking de Grupos:** Classifique os grupos de produtos vendidos com base no volume de vendas.
 - **Vendas Geral:** Apresente o total das vendas.
