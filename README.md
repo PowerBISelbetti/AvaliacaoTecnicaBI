@@ -40,7 +40,7 @@ Utilizando os arquivos do repositório, desenvolva um dashboard de página únic
 
 ## Instruções para Submissão
 
-Devem ser enviados, até **sexta-feira (04/03/2025) às 23:59**, os dois arquivos:
+Devem ser enviados, até **sexta-feira (16/05/2025) às 23:59**, os dois arquivos:
 
 - `consulta.sql`
 - `dashboard.pbix`
