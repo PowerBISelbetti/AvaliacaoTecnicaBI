@@ -40,7 +40,7 @@ Utilizando os arquivos do repositório, desenvolva um dashboard no Microsoft Pow
 
 ## Instruções para Submissão
 
-Devem ser enviados, até **sexta-feira (23/07/2025) às 23:59**, os dois arquivos:
+Devem ser enviados, até **quarta-feira (23/07/2025) às 23:59**, os dois arquivos:
 
 - `consulta.sql`
 - `dashboard.pbix`
