@@ -40,12 +40,12 @@ Utilizando os arquivos do repositório, desenvolva um dashboard de página únic
 
 ## Instruções para Submissão
 
-Devem ser enviados, até **sexta-feira (23/05/2025) às 23:59**, os dois arquivos:
+Devem ser enviados, até **sexta-feira (23/07/2025) às 23:59**, os dois arquivos:
 
 - `consulta.sql`
 - `dashboard.pbix`
 
-para o e-mail [filipe.rocha@selbetti.com.br](mailto:filipe.rocha@selbetti.com.br) com o título: **Avaliação ténica - {Nome do Candidato}**.
+para o e-mail [filipe.rocha@selbetti.com.br](mailto:filipe.rocha@selbetti.com.br) e [rafael.pereira@selbetti.com.br](mailto:rafael.pereira@selbetti.com.br) para com o título: **Avaliação ténica - {Nome do Candidato}**.
 
 > **Atenção:** Não aceitamos envios de outras formas.
 
