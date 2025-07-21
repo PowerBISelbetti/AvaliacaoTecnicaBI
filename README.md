@@ -27,7 +27,7 @@ Utilizando as bases disponibilizadas, desenvolva uma consulta SQL (utilize a est
 
 ### 2. Dashboard no Microsoft Power BI
 
-Utilizando os arquivos do repositório, desenvolva um dashboard de página única no Microsoft Power BI contendo os seguintes indicadores:
+Utilizando os arquivos do repositório, desenvolva um dashboard no Microsoft Power BI que seja proposto para ser utilizado pela diretoria do setor e que encante os usuários, contendo os seguintes indicadores:
 
 - **Vendas Mês a Mês:** Exiba o valor de vendas por mês, destacando qual foi o melhor e o pior mês.
 - **Ordens de Serviço Mês a Mês:** Exiba a quantidade de ordens de serviço por mês, destacando qual foi o melhor e o pior mês.
